@@ -45,13 +45,13 @@ npm run webpack-devserver
 * Добавляем react и react-dom
 * Создаем компонент "Hello World"
 
-## [Вторая часть](https://habrahabr.ru/post/309958/)
+## [Вторая часть](https://habrahabr.ru/post/310284/)
 * Добавляем react-bootstrap и создаем общий layout приложения
 * Создаем несколько страниц
 * Добавляем react-router и настраиваем навигацию для сайта
 * Добавляем redux и учимся работать с состоянием
 
-## [Третья часть](https://habrahabr.ru/post/310284/)
+## [Третья часть](https://habr.com/ru/post/310952/)
 * Добавляем redux-devtools
 * Добавляем redux-oauth и реализуем аутификацию
 * Реализуем взаимодействие с внешними источниками данных
